@@ -21,16 +21,3 @@ python scripts/train.py
 3. Predict category:
 ```bash
 python scripts/predict.py
-
-
-**## Requirements**
-
-Python 3.8+
-scikit-learn
-pandas
-joblib
-
-
-**## Install all:**
-```bash
-pip install -r requirements.txt
