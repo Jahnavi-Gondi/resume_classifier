@@ -40,7 +40,7 @@ Copy code
 > Make sure you have Python 3.7+ installed.
 
 1. Clone the Repo
-```bash
+bash
 git clone https://github.com/Jahnavi-Gondi/resume_classifier.git
 cd resume_classifier
 2. Install Dependencies
