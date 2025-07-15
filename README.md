@@ -23,7 +23,7 @@ python scripts/train.py
 python scripts/predict.py
 
 
-## Requirements:
+**## Requirements**
 
 Python 3.8+
 scikit-learn
@@ -31,6 +31,6 @@ pandas
 joblib
 
 
-## Install all:
+**## Install all:**
 ```bash
 pip install -r requirements.txt
